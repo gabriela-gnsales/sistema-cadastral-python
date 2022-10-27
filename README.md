@@ -1,3 +1,3 @@
-# Sistema 
+# Sistema de cadastro
 
-### Criar um sistema cadastral de usuários, modular e com armazenamento de dados em arquivo.
+### Sistema cadastral de usuários, modular e com armazenamento de dados em arquivo.
